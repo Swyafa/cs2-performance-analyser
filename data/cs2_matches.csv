@@ -1,0 +1,6 @@
+match_id,kills,deaths,assists,accuracy,headshot_pct,damage_done,duration_min,map,result
+1,12,8,3,45,30,1200,25,Mirage,win
+2,6,14,2,28,15,800,22,Inferno,loss
+3,15,7,5,50,40,1500,30,Dust2,win
+4,4,10,1,25,10,700,20,Nuke,loss
+5,10,5,4,48,35,1300,28,Mirage,win
